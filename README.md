@@ -9,7 +9,7 @@
 - 🧠 Currently learning **GO, & Cloud (AWS)**
 - 🐧 Daily driving **Linux (RHEL)**
 - 🎯 Focused on **DevOps and Linux**
-- 📫 Reach me: **https://www.linkedin.com/in/valentinoloza/** *(o tu LinkedIn si tenés)*
+- 📫 Reach me: **https://www.linkedin.com/in/valentinoloza/**
 
 ---
 
