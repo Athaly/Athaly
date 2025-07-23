@@ -1,4 +1,4 @@
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/02c20c33-af74-4f3c-a308-374149d3627f" />## Hi there 👋
+## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Valentino Loza</h1>
 <h3 align="center"> IT Infrastructure | Tech Support | Linux enthusiast | DevOps in training 💻</h3>
