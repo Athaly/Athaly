@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About me
-- 🧠 Currently learning **GO, & Cloud (AWS)**
+- 🧠 Currently learning **GO & DevOps**
 - 🐧 Daily driving **Linux (RHEL)**
 - 🎯 Focused on **DevOps and Linux**
 - 📫 Reach me: **https://www.linkedin.com/in/valentinoloza/**
