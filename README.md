@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/02c20c33-af74-4f3c-a308-374149d3627f" />## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Valentino Loza</h1>
 <h3 align="center"> IT Infrastructure | Tech Support | Linux enthusiast | DevOps in training 💻</h3>
@@ -14,14 +14,7 @@
 ---
 
 ### ⚙️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=redhat,aws,azure,bash,cloudflare,debian,docker,git,linux,mysql,postman,vim)](https://skillicons.dev)
 
 ---
 
