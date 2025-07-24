@@ -28,6 +28,7 @@
 
 ### 🚀 Latest Projects
 - [log-archiver](https://github.com/Athaly/log-archiver) — CLI tool to archive logs easily
+- [my-arch](https://github.com/Athaly/myarch) — My Arch Linux configuration
 <!-- Add more as you go -->
 
 ---
