@@ -27,8 +27,7 @@
 ---
 
 ### 🚀 Latest Projects
-- [log-archiver](https://github.com/Athaly/log-archiver) — CLI tool to archive logs easily
-- [my-arch](https://github.com/Athaly/myarch) — My Arch Linux configuration
+- [telegram-raffle-bot](https://github.com/Athaly/telegram-raffle-bot ) — Simple bot de sorteos para telegram.
 <!-- Add more as you go -->
 
 ---
