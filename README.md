@@ -13,7 +13,7 @@
 ---
 
 ### ⚙️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=redhat,arch,aws,azure,bash,cloudflare,debian,docker,git,linux,mysql,postman,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redhat,arch,python,aws,azure,bash,cloudflare,docker,git,linux,mysql,postman)](https://skillicons.dev)
 
 ---
 
