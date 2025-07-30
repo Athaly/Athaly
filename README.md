@@ -6,9 +6,9 @@
 ---
 
 ### 👨‍💻 About me
-- 🧠 Currently learning **GO & DevOps**
-- 🐧 Daily driving **Linux (RHEL)**
-- 🎯 Focused on **DevOps and Linux**
+- 🧠 Currently learning **GO & CI/CD**
+- 🐧 Daily driving **Arch**
+- 🎯 Focused on **DevOps**
 - 📫 Reach me: **https://www.linkedin.com/in/valentinoloza/**
 
 ---
