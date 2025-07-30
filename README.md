@@ -6,7 +6,6 @@
 ---
 
 ### 👨‍💻 About me
-- 🧠 Currently learning **GO & CI/CD**
 - 🐧 Daily driving **Arch**
 - 🎯 Focused on **DevOps**
 - 📫 Reach me: **https://www.linkedin.com/in/valentinoloza/**
