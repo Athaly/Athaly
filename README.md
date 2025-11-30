@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Valentino Loza</h1>
-<h3 align="center"> IT Infrastructure | Tech Support | Linux enthusiast | DevOps in training 💻</h3>
+<h3 align="center"> DevOps Engineer & Linux SysAdmin </h3>
 
 ---
 
