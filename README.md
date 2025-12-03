@@ -19,15 +19,14 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Athaly">
-    <img src="https://github-readme-stats.vercel.app/api?username=Athaly&show_icons=true&theme=radical" alt="Athaly GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Athaly&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
-</div>
----
+</p>
 
 ### 🚀 Latest Projects
-- [telegram-raffle-bot](https://github.com/Athaly/ansible-hardening ) — Simple bot de sorteos para telegram.
+- [telegram-raffle-bot](https://github.com/Athaly/ansible-hardening ) — Server Hardening con Ansible.
 <!-- Add more as you go -->
 
 ---
