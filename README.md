@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 Latest Projects
-- [telegram-raffle-bot](https://github.com/Athaly/ansible-hardening ) — Server Hardening con Ansible.
+- [ansible-hardening](https://github.com/Athaly/ansible-hardening ) — Server Hardening con Ansible.
 <!-- Add more as you go -->
 
 ---
