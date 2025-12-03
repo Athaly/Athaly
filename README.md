@@ -20,7 +20,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athaly&show_icons=true&theme=tokyonight" alt="Valentino's GitHub stats" />
+[![Athaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athaly)](https://github.com/Athaly/github-readme-stats)
 </p>
 
 ---
