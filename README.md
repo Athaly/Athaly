@@ -26,7 +26,7 @@
 ---
 
 ### 🚀 Latest Projects
-- [telegram-raffle-bot](https://github.com/Athaly/telegram-raffle-bot ) — Simple bot de sorteos para telegram.
+- [telegram-raffle-bot](https://github.com/Athaly/ansible-hardening ) — Simple bot de sorteos para telegram.
 <!-- Add more as you go -->
 
 ---
