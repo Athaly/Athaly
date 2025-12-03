@@ -19,10 +19,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-[![Athaly GitHub stats](https://github-readme-stats.vercel.app/api?username=Athaly)](https://github.com/Athaly/github-readme-stats)
-</p>
-
+<div align="center">
+  <a href="https://github.com/Athaly">
+    <img src="https://github-readme-stats.vercel.app/api?username=Athaly&show_icons=true&theme=radical" alt="Athaly GitHub stats" />
+  </a>
+</div>
 ---
 
 ### 🚀 Latest Projects
