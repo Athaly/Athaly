@@ -20,7 +20,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-[![Athaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athaly)](https://github.com/Athaly/github-readme-stats)
+[![Athaly GitHub stats](https://github-readme-stats.vercel.app/api?username=Athaly)](https://github.com/Athaly/github-readme-stats)
 </p>
 
 ---
