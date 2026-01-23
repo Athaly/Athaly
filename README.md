@@ -6,8 +6,6 @@
 ---
 
 ### 👨‍💻 About me
-- 🐧 Daily driving **Arch**
-- 🎯 Focused on **DevOps**
 - 📫 Reach me: **https://www.linkedin.com/in/valentinoloza/**
 
 ---
